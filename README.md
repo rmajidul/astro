@@ -1,2 +1,2 @@
 # astro
-data handling
+Astronomical data handling
